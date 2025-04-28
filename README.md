@@ -47,7 +47,7 @@ extension: [
           }
           return emojis;
         },
-      }),
+      },
       /**
        * These are tippy.js config for the popup, (optional)
        * **/
@@ -75,6 +75,7 @@ extension: [
         // unicode char emoji
         emojiChar: "emoji-picker__emoji__char",
       }
+   })
 ]
 ```
 
